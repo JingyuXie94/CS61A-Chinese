@@ -4,7 +4,7 @@
 为了更好地逼迫自己认真学习CS61A这门公开课，
 
 ### 目标
-1. 提供一份略微能参考的CS61A学习指南
+1. 提供一份略微能参考的[CS61A学习指南](https://github.com/JingyuXie94/CS61A-Chinese/blob/main/CS61A%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.md)
 2. 完成**composing programs**的中文翻译
 3. 完成CS61A Lab,HW
 
